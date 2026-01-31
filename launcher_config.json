@@ -10,7 +10,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 */
 {
 	"clientVersion": "13.20.13560",
-	"launcherVersion": "1.0.1",
+	"launcherVersion": "1.0",
 	"replaceFolders": true,
 	"replaceFolderName": [
 		{
@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "Otsoria",
-	"newClientUrl" : "https://github.com/keworsik/otsoria/releases/download/1.0.1/client-to-update.zip",
+	"newClientUrl" : "https://github.com/keworsik/otsoria/releases/download/1.0/client-to-update.zip",
 	"clientExecutable": "client.exe"
 }
